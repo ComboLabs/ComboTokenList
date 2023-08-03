@@ -1,0 +1,11 @@
+{
+    "name": "Test",
+    "symbol": "TEST",
+    "decimals": 18,
+    "nobridge": true,
+    "tokens": {
+      "combo": {
+        "address": "0x4200000000000000000000000000000000000041"
+      }
+    }
+  }
