@@ -1,20 +1,20 @@
 {
   "name": "Combo Chain Token List",
-  "logoURI": ".//combo.png",
+  "logoURI": "https://github.com/ComboLabs/ComboTokenList/combo.png",
   "keywords": [
     "scaling",
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-08-03T06:53:28.905Z",
+  "timestamp": "2023-08-03T12:21:57.945Z",
   "tokens": [
     {
       "chainId": 91715,
-      "address": "0x4200000000000000000000000000000000000042",
-      "name": "Combo",
-      "symbol": "COMBO",
+      "address": "0x66806a84A38473F3FB308A9877A30eCf589f5bBE",
+      "name": "tcHunter",
+      "symbol": "TCT",
       "decimals": 18,
-      "logoURI": ".//data/COMBO/logo.png"
+      "logoURI": "https://github.com/ComboLabs/ComboTokenList/data/TCT/logo.png"
     }
   ],
   "version": {

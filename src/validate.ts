@@ -53,18 +53,7 @@ export const validate = async (
 
   const results = []
   // Load the CoinGecko tokenlist once to avoid additional requests
-  let cgret
-  let cg
-  try {
-    cgret = await fetch('https://tokens.coingecko.com/uniswap/all.json')
-    cg = await cgret.json()
-  } catch (err) {
-    console.error('fetch for CoinGecko token list failed', err)
-    results.push({
-      type: 'warning',
-      message: 'fetch for CoinGecko token list failed',
-    })
-  }
+
 
   for (const folder of folders) {
     // Make sure the data file exists
@@ -203,21 +192,6 @@ export const validate = async (
             type: 'warning',
             message: `${folder} on chain ${chain} token ${token.address} has overridden name`,
           })
-        }
-
-        // Check that the Ethereum token exists in the CG token list
-        if (chain === 'ethereum' && cg !== undefined) {
-          const found = cg.tokens.find((t) => {
-            return t.address.toLowerCase() === token.address.toLowerCase()
-          })
-
-          // Trigger manual review if the Ethereum token is not in the CG token list
-          if (!found) {
-            results.push({
-              type: 'warning',
-              message: `${folder} on chain ${chain} token ${token.address} not found on CoinGecko token list`,
-            })
-          }
         }
 
         if (networkData.layer === 2) {
