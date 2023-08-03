@@ -26,7 +26,7 @@ Create a folder inside of the [data folder](https://github.com/ComboLabs/ComboTo
 
 ### Add a logo to your folder
 
-Add a logo to the data folder you just created. Your logo MUST be an SVG called `logo.svg`. Your logo should be at least 200x200 pt minimum and 256x256 pt preferred.
+Add a logo to the data folder you just created. Your logo MUST be an SVG called `logo.svg` or `log.png`. Your logo should be at least 200x200 pt minimum and 256x256 pt preferred.
 
 ### Create a data file
 

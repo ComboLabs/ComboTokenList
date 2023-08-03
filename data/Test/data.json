@@ -1,6 +1,6 @@
 {
     "name": "ComboTest",
-    "symbol": "TST",
+    "symbol": "ComboTest",
     "decimals": 18,
     "nobridge": true,
     "tokens": {
