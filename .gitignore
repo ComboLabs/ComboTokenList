@@ -7,4 +7,3 @@ std.out
 validation_results.txt
 dist/
 tmp/
-tests/
