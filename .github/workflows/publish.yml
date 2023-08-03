@@ -30,7 +30,7 @@ jobs:
           scope: '@eth-optimism'
 
       - name: Install dependencies to prepare for release 🔧
-        run: pnpm install --frozen-lockfile
+        run: pnpm install --no-frozen-lockfile
 
       - name: Build and publish package on NPM 📦
         run: pnpm release
