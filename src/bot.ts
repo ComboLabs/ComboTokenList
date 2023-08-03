@@ -70,8 +70,8 @@ export class Bot extends BaseServiceV2<TOptions, TMetrics, TState> {
       const id = uuid.v4()
       try {
         // We'll need this later
-        const owner = 'combo'
-        const repo = 'combotokenlist'
+        const owner = 'ComboLabs'
+        const repo = 'ComboTokenList'
 
         // Compute the HMAC of the request body
         const sig = Buffer.from(req.get('X-Hub-Signature-256') || '', 'utf8')
