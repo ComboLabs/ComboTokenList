@@ -1,0 +1,13 @@
+{
+  "name": "tcHunter",
+  "symbol": "TCT",
+  "decimals": 18,
+  "nobridge": true,
+  "description": "$tcHunter is for the test only. Participants will be eligible for future perks.!",
+  "website": "https://hunterswap.net/",
+  "twitter": "@Hunterswap2023",
+  "tokens": {
+    "combo": {
+      "address": "0x66806a84A38473F3FB308A9877A30eCf589f5bBE"
+    }
+  }
