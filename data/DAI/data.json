@@ -1,0 +1,11 @@
+{
+  "name": "Dai",
+  "symbol": "DAI",
+  "decimals": 18,
+  "nobridge": false,
+  "tokens": {
+    "combo test": {
+      "address": "0xa10D8B47f9d5dE407fcF1512E1aEF98b278CC964"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "USDT Token",
+  "symbol": "USDT",
+  "decimals": 18,
+  "nobridge": false,
+  "tokens": {
+    "combo test": {
+      "address": "0x9B653708E1D37C95FD003Ce0EeeDEcc4e31c8175"
+    }
+  }
+}
