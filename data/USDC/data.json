@@ -1,0 +1,11 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "decimals": 18,
+  "nobridge": false,
+  "tokens": {
+    "combo test": {
+      "address": "0x1B3cCe39dC6F9FE77f87B7EFbbDf575514f2D217"
+    }
+  }
+}

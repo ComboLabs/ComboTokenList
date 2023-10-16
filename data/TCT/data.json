@@ -4,7 +4,7 @@
   "decimals": 18,
   "nobridge": true,
   "tokens": {
-    "combo": {
+    "combo test": {
       "address": "0x66806a84A38473F3FB308A9877A30eCf589f5bBE"
     }
   }

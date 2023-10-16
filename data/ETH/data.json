@@ -1,0 +1,11 @@
+{
+  "name": "Ethereum",
+  "symbol": "ETH",
+  "decimals": 18,
+  "nobridge": false,
+  "tokens": {
+    "combo test": {
+      "address": "0x256E73B103EE1A66689792650fE2d5196f683ED7"
+    }
+  }
+}
