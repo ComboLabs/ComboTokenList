@@ -13,7 +13,7 @@
       "name": "BitCoin",
       "symbol": "BTC",
       "decimals": "18",
-      "logoURI": "https://github.com/ComboLabs/ComboTokenList/tree/master/data/BTC/logo.svg",
+      "logoURI": "https://github.com/ComboLabs/ComboTokenList/tree/master/data/BTC/BTC.png",
       "l1Address": "0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8",
       "l2Address": "0x35Bd8A6a51411a7B69020bFC385f758B5E96f2cF"
     },
@@ -22,7 +22,7 @@
       "name": "Binance USD",
       "symbol": "BUSD",
       "decimals": "18",
-      "logoURI": "https://github.com/ComboLabs/ComboTokenList/tree/master/data/BUSD/logo.svg",
+      "logoURI": "https://github.com/ComboLabs/ComboTokenList/tree/master/data/BUSD/BUSD.png",
       "l1Address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
       "l2Address": "0xB82fE26D2672dba930af136C85572856adD0f030"
     },
@@ -31,7 +31,7 @@
       "name": "Dai",
       "symbol": "DAI",
       "decimals": "18",
-      "logoURI": "https://github.com/ComboLabs/ComboTokenList/tree/master/data/DAI/logo.svg",
+      "logoURI": "https://github.com/ComboLabs/ComboTokenList/tree/master/data/DAI/DAI.png",
       "l1Address": "0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867",
       "l2Address": "0xa10D8B47f9d5dE407fcF1512E1aEF98b278CC964"
     },
@@ -40,7 +40,7 @@
       "name": "Ethereum",
       "symbol": "ETH",
       "decimals": "18",
-      "logoURI": "https://github.com/ComboLabs/ComboTokenList/tree/master/data/ETH/logo.svg",
+      "logoURI": "https://github.com/ComboLabs/ComboTokenList/tree/master/data/ETH/ETH.png",
       "l1Address": "0xd66c6B4F0be8CE5b39D52E0Fd1344c389929B378",
       "l2Address": "0x256E73B103EE1A66689792650fE2d5196f683ED7"
     },
@@ -49,7 +49,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": "18",
-      "logoURI": "https://github.com/ComboLabs/ComboTokenList/tree/master/data/USDC/logo.svg",
+      "logoURI": "https://github.com/ComboLabs/ComboTokenList/tree/master/data/USDC/USDC.png",
       "l1Address": "0x64544969ed7EBf5f083679233325356EbE738930",
       "l2Address": "0x1B3cCe39dC6F9FE77f87B7EFbbDf575514f2D217"
     },
@@ -58,7 +58,7 @@
       "name": "USDT Token",
       "symbol": "USDT",
       "decimals": "18",
-      "logoURI": "https://github.com/ComboLabs/ComboTokenList/tree/master/data/USDT/logo.svg",
+      "logoURI": "https://github.com/ComboLabs/ComboTokenList/tree/master/data/USDT/USDT.png",
       "l1Address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
       "l2Address": "0x9B653708E1D37C95FD003Ce0EeeDEcc4e31c8175"
     }
