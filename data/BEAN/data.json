@@ -1,0 +1,11 @@
+{
+  "name": "BEAN.SecondLive",
+  "symbol": "BEAN",
+  "decimals": 18,
+  "nobridge": false,
+  "tokens": {
+    "combo": {
+      "address": "0xba7b9936a965FAc23Bb7A8190364FA60622B3CFf"
+    }
+  }
+}
