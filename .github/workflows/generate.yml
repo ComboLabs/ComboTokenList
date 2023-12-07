@@ -13,7 +13,6 @@ jobs:
         && github.repository == 'ComboLabs/ComboTokenList'
 
     runs-on: ubuntu-latest
-
     steps:
       runs-on: ubuntu-latest
 
