@@ -1,11 +1,11 @@
 {
-  "name": "USDT Token",
+  "name": "Tether USD",
   "symbol": "USDT",
-  "decimals": 18,
-  "nobridge": false,
+  "decimals": 6,
+  "nobridge": true,
   "tokens": {
     "combo": {
-      "address": "0x7c6b91d9be155a6db01f749217d76ff02a7227f2"
+      "address": "0xeec5fe05c6a826704677548f191dc48f6dadef6c"
     }
   }
 }
