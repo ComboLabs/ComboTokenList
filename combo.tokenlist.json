@@ -1,20 +1,20 @@
 {
-  "name": "Combo Test Chain Token List",
-  "logoURI": "https://github.com/ComboLabs/logo/blob/main/Combo%20Final%20Logos/Favicon/combo-favicon.png",
+  "name": "Combo Chain Token List",
+  "logoURI": "https://github.com/ComboLabs/ComboTokenList/combo.png",
   "keywords": [
     "scaling",
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-12-07T04:13:52.554Z",
+  "timestamp": "2023-12-07T06:20:45.820Z",
   "tokens": [
     {
       "chainId": 9980,
-      "address": "0xd588aea27022f0cf042616d809ab354049c2bc97",
-      "name": "tcHunter",
-      "symbol": "WBNB",
-      "decimals": 18,
-      "logoURI": "https://github.com/ComboLabs/ComboTokenList/data/WBNB/logo.svg"
+      "address": "0xeec5fe05c6a826704677548f191dc48f6dadef6c",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://github.com/ComboLabs/ComboTokenList/data/USDT/logo.png"
     }
   ],
   "version": {
