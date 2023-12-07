@@ -6,15 +6,15 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-12-07T01:18:32.977Z",
+  "timestamp": "2023-12-07T04:13:52.554Z",
   "tokens": [
     {
       "chainId": 9980,
-      "address": "0x66806a84A38473F3FB308A9877A30eCf589f5bBE",
+      "address": "0xd588aea27022f0cf042616d809ab354049c2bc97",
       "name": "tcHunter",
-      "symbol": "TCT",
+      "symbol": "WBNB",
       "decimals": 18,
-      "logoURI": "https://github.com/ComboLabs/ComboTokenList/data/TCT/logo.png"
+      "logoURI": "https://github.com/ComboLabs/ComboTokenList/data/WBNB/logo.svg"
     }
   ],
   "version": {
