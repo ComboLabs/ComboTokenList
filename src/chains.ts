@@ -54,7 +54,7 @@ export const L1_STANDARD_BRIDGE_INFORMATION: Record<
   ethereum: [
     {
       l2Chain: 'combo',
-      l1StandardBridgeAddress: '0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1',
+      l1StandardBridgeAddress: '0xAF0721ecf5B087eF67731188925C83DBC02f46Fb',
     }
   ],
   goerli: [
