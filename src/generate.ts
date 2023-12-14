@@ -43,7 +43,7 @@ export const generate = (datadir: string) => {
           : {}
         const out = {
           chainId: NETWORK_DATA[chain].id,
-          address: token.address,
+          l2Address: token.address,
           name: token.overrides?.name ?? data.name,
           symbol: token.overrides?.symbol ?? data.symbol,
           decimals: token.overrides?.decimals ?? data.decimals,

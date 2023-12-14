@@ -6,8 +6,16 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-12-07T09:29:47.464Z",
+  "timestamp": "2023-12-14T10:37:42.579Z",
   "tokens": [
+    {
+      "chainId": 9980,
+      "l2Address": "0xeec5fe05c6a826704677548f191dc48f6dadef6c",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://github.com/ComboLabs/ComboTokenList/data/USDT/logo.png"
+    },
     {
       "chainId": 9980,
       "address": "0xba7b9936a965FAc23Bb7A8190364FA60622B3CFf",
