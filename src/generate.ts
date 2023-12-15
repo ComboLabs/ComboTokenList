@@ -14,7 +14,7 @@ import { L2Chain, Token, TokenData, isL1Chain, isL2Chain } from './types'
 /**
  * Base URL where static assets are hosted.
  */
-const BASE_URL = 'https://github.com/ComboLabs/ComboTokenList'
+const BASE_URL = 'https://raw.githubusercontent.com/ComboLabs/ComboTokenList/master'
 
 /**
  * Generates a token list from the data in the data folder.
