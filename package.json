@@ -1,7 +1,7 @@
 {
   "name": "@combolab/tokenlist",
   "description": "[Combo] token list",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
