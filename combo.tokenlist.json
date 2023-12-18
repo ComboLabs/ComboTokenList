@@ -1,25 +1,41 @@
 {
   "name": "Combo Chain Token List",
-  "logoURI": "https://github.com/ComboLabs/ComboTokenList/combo.png",
+  "logoURI": "https://raw.githubusercontent.com/ComboLabs/ComboTokenList/master/combo.png",
   "keywords": [
     "scaling",
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-12-07T06:20:45.820Z",
+  "timestamp": "2023-12-15T06:23:58.702Z",
   "tokens": [
     {
       "chainId": 9980,
-      "address": "0xeec5fe05c6a826704677548f191dc48f6dadef6c",
+      "l2Address": "0xba7b9936a965FAc23Bb7A8190364FA60622B3CFf",
+      "name": "BEAN.SecondLive",
+      "symbol": "BEAN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ComboLabs/ComboTokenList/master/data/BEAN/logo.png"
+    },
+    {
+      "chainId": 9980,
+      "l2Address": "0xd08a2917653d4e460893203471f0000826fb4034",
+      "name": "ComboToken",
+      "symbol": "COMBO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ComboLabs/ComboTokenList/master/data/COMBO/logo.png"
+    },
+    {
+      "chainId": 9980,
+      "l2Address": "0x7c6b91d9be155a6db01f749217d76ff02a7227f2",
       "name": "Tether USD",
       "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://github.com/ComboLabs/ComboTokenList/data/USDT/logo.png"
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ComboLabs/ComboTokenList/master/data/USDT/logo.png"
     }
   ],
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 0
+    "patch": 3
   }
 }

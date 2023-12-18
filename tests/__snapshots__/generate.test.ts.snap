@@ -12,9 +12,9 @@ Object {
   "timestamp": "2022-08-17T17:00:00.000Z",
   "tokens": Array [
     Object {
-      "address": "0x4200000000000000000000000000000000000042",
       "chainId": 9980,
       "decimals": 18,
+      "l2Address": "0x4200000000000000000000000000000000000042",
       "logoURI": "https://github.com/ComboLabs/ComboTokenList/data/COMBO/logo.png",
       "name": "Combo",
       "symbol": "COMBO",
