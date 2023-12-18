@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2023-12-15T06:23:58.702Z",
+  "timestamp": "2023-12-18T07:39:49.019Z",
   "tokens": [
     {
       "chainId": 9980,
@@ -31,11 +31,19 @@
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ComboLabs/ComboTokenList/master/data/USDT/logo.png"
+    },
+    {
+      "chainId": 9980,
+      "l2Address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ComboLabs/ComboTokenList/master/data/WBNB/logo.png"
     }
   ],
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 3
+    "patch": 4
   }
 }
